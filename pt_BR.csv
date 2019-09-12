@@ -7492,7 +7492,7 @@ Cancel,Cancelar,module,Magento_NegotiableQuote
 "Percentage Discount","Porcentagem de Desconto",module,Magento_NegotiableQuote
 "Amount Discount","Valor do desconto",module,Magento_NegotiableQuote
 "Proposed Price","Preço proposto",module,Magento_NegotiableQuote
-"Quote Subtotal","Subtotal do Carrinho",module,Magento_NegotiableQuote
+"Quote Subtotal","1Subtotal do Carrinho",module,Magento_NegotiableQuote
 "My Orders","Meus Pedidos",module,Magento_NegotiableQuote
 "My Quotes","Principais Cotações",module,Magento_NegotiableQuote
 "created quote","cotação criada",module,Magento_NegotiableQuote
